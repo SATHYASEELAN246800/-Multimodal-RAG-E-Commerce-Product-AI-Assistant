@@ -6,6 +6,7 @@
 ### **FULL FREE & OPEN-SOURCE AI STACK (Base44 Implementation)**
 
 **Deployed App:** [https://shop-ai-ad2ec731.base44.app](https://shop-ai-ad2ec731.base44.app)
+
 **Base44 Workspace(sathya) :** [https://app.base44.com](https://app.base44.com)
 
 ---
